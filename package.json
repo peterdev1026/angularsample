@@ -61,7 +61,7 @@
     "mustache": "2.2.1",
     "oidc-token-hash": "^1.0.0",
     "pem-jwk": "1.5.1",
-    "protractor": "^4.0.14",
+    "protractor": "^7.0.0",
     "request": "^2.83.0",
     "wait-on": "2.0.2",
     "webpack-dev-server": "^2.11.0",
