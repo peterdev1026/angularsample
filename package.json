@@ -23,7 +23,7 @@
     "build-frontend": "./scripts/build-frontend.js"
   },
   "dependencies": {
-    "@okta/oidc-middleware": "0.0.2",
+    "@okta/oidc-middleware": "5.0.0",
     "@okta/okta-signin-widget": "^2.5.0",
     "angular": "1.6.7",
     "angular-ui-router": "1.0.0-beta.3",
